@@ -54,7 +54,7 @@ setup(
     ],"""
 
     # Here are the keywords of my library.
-    keywords='OSM, Scala, PBF, Pyspark ',
+    keywords=['OSM, Scala, PBF, Pyspark ']
 
     # here are the packages I want "build."
     packages=find_namespace_packages(
